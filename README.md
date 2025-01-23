@@ -1,4 +1,4 @@
-# Common tools for generation of packages in the actions/*-versions repositories
+ # Common tools for generation of packages in the actions/*-versions repositories
 This repository contains PowerShell modules that are used to generate packages for Actions. The packages are consumed by the images generated through [actions/runner-images](https://github.com/actions/runner-images) and some of the setup-* Actions
 
 ## Recommended permissions
